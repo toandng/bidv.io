@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "bidv.io",
+			"path": "../../Documents/toan1.github.io/bidv.io"
+		},
+		{
+			"name": "bidv.io",
+			"path": "../../Documents/toan2.github.io/bidv.io"
+		},
+		{
+			"name": "bidv.io",
+			"path": "../../Documents/toan3.github.io/bidv.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BIDV"
+	}
+}
